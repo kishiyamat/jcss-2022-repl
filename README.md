@@ -1,5 +1,10 @@
 # jcss-2022-replication
 
+1. https://binder.cs.rcos.nii.ac.jp/v2/gh/kishiyamat/kishiyamat-jcss-2022-replication/main にアクセスして環境構築
+1. 前処理
+1. 分析
+1. 可視化
+
 # 環境作成時
 
 1. 分析を一通りおこなう
