@@ -1,5 +1,7 @@
 # jcss-2022-replication
 
+data/ には事前にcsvを配置する
+
 1. https://binder.cs.rcos.nii.ac.jp/v2/gh/kishiyamat/jcss-2022-replication/main にアクセスして環境構築
 1. 前処理
 1. 分析
