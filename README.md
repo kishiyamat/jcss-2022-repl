@@ -1,5 +1,3 @@
-# jcss-2022-replication
-
 ![](fig/title.png)
 
 ## 前準備
