@@ -1,16 +1,12 @@
-# jcss-2022-replication
+![](fig/title.png)
 
-data/ には事前にcsvを配置する
+## 前準備
 
-1. https://binder.cs.rcos.nii.ac.jp/v2/gh/kishiyamat/jcss-2022-replication/main にアクセスして環境構築
-1. 前処理
-1. 分析
-1. 可視化
+1. https://binder.cs.rcos.nii.ac.jp/v2/gh/kishiyamat/jcss-2022-repl/main にアクセスして環境構築(
+   [ドキュメント](https://meatwiki.nii.ac.jp/confluence/pages/viewpage.action?pageId=67614937)も参照)
+1. data/ には事前に[data](https://drive.google.com/drive/folders/1t1rN5V0BJJCMeq3Gu_WSjddd71kUOLXM?usp=sharing)内のcsvを配置(利用にはリクエストが必要)
 
-# 環境作成時
+## サンプルコード
 
-1. 分析を一通りおこなう
-1. 環境を再現できるよう、[ドキュメント](https://meatwiki.nii.ac.jp/confluence/pages/viewpage.action?pageId=67614937) を参考にしながら
-   requirements.txtなどを整備(Pythonの場合)
-1. 分析を notebook に移植
+analysis.ipynb に前処理や分析、可視化のコードを配置しています。
 
